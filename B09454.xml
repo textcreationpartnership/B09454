@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loyal and ingenuous returns, of gratitude from the Royal Party, to His Majesty and the Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09454</idno><idno type="EEBO-CITATION">80923043</idno>
+  <idno type="VID">191913</idno>
+  <idno type="EEBO-PROQUEST">2240864195</idno>
+  
+            <idno type="OCLC"> 80923043</idno>
+            <idno type="STC">Wing L3337</idno>
+            <idno type="STC">ESTC R180197</idno>
+            <idno type="OCLC">80923043</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191913)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2895:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loyal and ingenuous returns, of gratitude from the Royal Party, to His Majesty and the Parliament.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Seile, over against St. Dunstans Church in Fleetstreet.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>166[1].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: imprint date partially obscured; date suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Royalists --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191913:1"/>
+            <p>LOYAL AND Ingenuous Returns, OF GRATITUDE FROM THE Royal Party, TO HIS MAJESTY AND THE PARLIAMENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Seile,</hi> over against St. <hi>Dunstans</hi> Church in <hi>Fleetstreet.</hi> 166<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="acknowledgment">
+            <pb facs="tcp:191913:2"/>
+            <pb n="1" facs="tcp:191913:2"/>
+            <head>Loyall and ingenuous returns of Gra<g ref="char:EOLhyphen"/>titude from the Royal Party, to His Majesty and the Parliament.</head>
+            <p>THough we never doubted of our Prin<g ref="char:EOLhyphen"/>ces favour, Or the Parliaments noble and candid intentions towards us, Nor wanted that consideration of his Majesties urgent affairs, and our own Duties, which became our Loyaltie: Yet such were the pressures, under which many of us have lien, in relation to our present and daily subsistance, without any visible appearance of better hopes, that it rend<g ref="char:EOLhyphen"/>red the very thought of further expectation almost desperate, Whereof we begg the Charitable Cen<g ref="char:EOLhyphen"/>sure of those that love us, since the best of men, (under long and important trialls,) have sometimes lan<g ref="char:EOLhyphen"/>guished.</p>
+            <p>The dark lines, which seemed to be drawn upon the Face of honour, by the slender Notice taken of our Constant Sufferings, and Confusion, (as wee judged,) of causes and interests, (in themselves, very different,) wrought, in us, many discouragements, and some Perturbations, Whilst, (perhaps too Cu<g ref="char:EOLhyphen"/>riously,) wee enquired the meaning, And perplexed
+<pb n="2" facs="tcp:191913:3"/> our selves, in Vain, to consider the tendency of such Counsells; We suspected, least some misrepresen<g ref="char:EOLhyphen"/>tation of us to his Majesty, under Characters full of Prejudice, might have turned his thoughts into ano<g ref="char:EOLhyphen"/>ther Channel, Or suspended his Natural, and, (as it were) Paternal inclinations towards us; We were, indeed, sensibly touched to find the Continuance of our Miseries, frequently converted to our fur<g ref="char:EOLhyphen"/>ther reproach; But, above all, we feared, least overmuch indulgence to great Offendors, and sleight Proselytes, might afford them colour of defending, Or at least, extenuating their Crimes, in an Age so grossely Catechised, that it is apt to mistake Impu<g ref="char:EOLhyphen"/>nity for Innocency, and ascribe sinfull Prosperity to divine Benediction.</p>
+            <p>It added much to the Weight of our misfortunes to Observe, That many of our former, (and still sup<g ref="char:EOLhyphen"/>posed,) Friends were not, (as we thought,) enough concerned for us, But having served their own inte<g ref="char:EOLhyphen"/>rests, presently forsook ours, And began to look up<g ref="char:EOLhyphen"/>on us as a kinde of troublesom guests, whom they could not fairly shunne or disown, yet entertained very unwillingly; Neither was it the least of our Afflictions, in such a throng of pretences, to bee the Persons, last, and (in appearance) least considered.</p>
+            <p>His Majesty in his late Gracious Speech to the <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>iament, generously expressing his Royal Sense of our Condition, his desire, but withall his disabili<g ref="char:EOLhyphen"/>ty to help us, did thereby (tacitely, but effectually) recommend us to their honourable and prudent thoughts, And the Parliament, in a Noble Com<g ref="char:EOLhyphen"/>pliance with his Majesties wishes, (though by us un<g ref="char:EOLhyphen"/>sollicited,) hath, in some measure answered our Peti<g ref="char:EOLhyphen"/>tion,
+<pb n="3" facs="tcp:191913:3"/> before we presented it, by selecting a Commit<g ref="char:EOLhyphen"/>tee to consider expedients for our Reparation, thus by their wisdom, anticipating our Addresses; So as now it appears, The delay proceeded not from any unbenigne Aspect or Eclipse of his Majesties favour towards us, But must be imputed to invincible Exi<g ref="char:EOLhyphen"/>gence, and reasons of Government, best known to his Majesty, the only competent Judge of publick Convenience.</p>
+            <p>To his Sacred Majesty, therefore, (as our undoubt<g ref="char:EOLhyphen"/>ed Patron,) in the first place, with all humility, we acknowledge whatsoever benefit is conferred upon us, who, together with his own weightiest concern<g ref="char:EOLhyphen"/>ments, so pathetically declared and imprinted his Sense of ours; Not forgetting alwayes to celebrate the Cheerfullness of this renowned Parliament, in entertaining the first Ouverture on our behalf, and considering our Necessities, even (in a time of Pub<g ref="char:EOLhyphen"/>lick pressure,) amongst the Crying debts, and impor<g ref="char:EOLhyphen"/>tant affairs of the Kingdom.</p>
+            <p>It is this which will (and, indeed, only can,) re<g ref="char:EOLhyphen"/>collect the shipwracks of weather-beaten Loyalty, and recover Vertue out of its deepest trance; This, at once, will reinforce the Spirits of drooping integrity, and check the triumph of prosperous and presump<g ref="char:EOLhyphen"/>tuous Crimes; The Armour, which was grown rusty with disuse, and neglect, will shine again, And the Sword, which had lost its edge, cut sharper then Ever; Even Prudent men will not think it rashnesse to venture their Lives and fortunes in the discharge of their Duties, nor digest the ruine of their Fami<g ref="char:EOLhyphen"/>lies, before they Embrace the Service of their Countrey.</p>
+            <pb n="4" facs="tcp:191913:4"/>
+            <p>What a Spurre of honour will it afford the pre<g ref="char:EOLhyphen"/>sent Age, to see the Wounds of Loyalty so dressed? What a famous Precedent will it transmit to future times, to find the Breaches of Vertue so repaired! And who so Politick, that he will hereafter scruple to embarque himself in his Countreys bottome, where he cannot perish, but in the Common Cala<g ref="char:EOLhyphen"/>mity, which no good man would wish to survive?</p>
+            <p>What a Vindication will it be to Publick Faith, (now blasted with the Scandal of Bankrout Autho<g ref="char:EOLhyphen"/>rities,) When Obligations of meer Honour and Confidence shall be recorded in the Nature of pub<g ref="char:EOLhyphen"/>lick debts! What may they borrow, that are such Pay-masters? And how just may they be presumed in the performance of a Contract, who are so noble in the discharge of a trust?</p>
+            <p>The old Stock of Royallists (such, as without o<g ref="char:EOLhyphen"/>ther Summons, then their Duty, other Inducement, then the Justice of their Cause, or encouragement, then the goodnesse of their Prince, freely exposed themselves, and their Estates, to follow his Majesties Ensigns in the first War, and have, ever since, Crown<g ref="char:EOLhyphen"/>ed their Zeal with Perseverance,) is now reduced in<g ref="char:EOLhyphen"/>to a narrow Circuit, Tyranny hath dispatched many, Time hath devoured more, and Misery so disguised the Remainder of them, (at least for the Major Part,) that it is scarce discernable, what they once were; Behold a Miracle, which will, even, raise the dead out of their graves, at least, restore the lame to their Limbs, a husbandry which will propagate a genera<g ref="char:EOLhyphen"/>tion truly English and loyal, and cherish, as it were, an immortal Seed-Plot or Nursery for a Royal Plat<g ref="char:EOLhyphen"/>tation.</p>
+            <pb n="5" facs="tcp:191913:4"/>
+            <p>The settlement of a Competent Revenue for the Support of Regal Dignity, and an Effectual Militia for the Curbing of Factions, is the great Work of this season, in the accomplishment whereof, our very beings are concerned; But the preservation of Loyal Veteranes is Certainly of Equal Moment; It will serve, upon all Occasions, as a bank of Credit, and an Army of Volunteers at his Majesties call.</p>
+            <p>It is not to be uttered, What impression this Overture hath already made in our hearts, what a Change in our very Countenances, Not any Cloud or Symptome of dissatisfaction appearing amongst us, We only regret, that we cannot grow young again for his Majesties service, That none of us hath more lives then one, to hazard for him, And (could it be without Publick Ruine) would be content to repeat whatsoever we acted, or suffered, in the War, or since.</p>
+            <p>Not that we swallow mountains, (as some injuri<g ref="char:EOLhyphen"/>ously suggest and Report,) Such monstrous expectati<g ref="char:EOLhyphen"/>ons better became their greedinesse, who, in the ex<g ref="char:EOLhyphen"/>action of unjust Arrears, so often tormented the Nation with their Mutinies, and put their Countrey almost to a yearly Ransome; The Principle, we have still asserted, is that of Modest and Entire Obedi<g ref="char:EOLhyphen"/>ence, and we are beholden to them, that have taught us Patience, in the greatest Necessities: Which, ha<g ref="char:EOLhyphen"/>ving so long practised under Tyrants, We are not surely in danger, now, to forfeit, or transgress: No; the Establishment of our King, and Peace of our Countrey. alone, afford us such entertainment, that it were wantonnesse in us to dream of other Dainties, A bare subsistance with his Majesties Welcome, is great cheer.</p>
+            <pb n="6" facs="tcp:191913:5"/>
+            <p>And, indeed, we doubt not, but all good English<g ref="char:EOLhyphen"/>men are so sensible both of our innocent sufferings, and our honest pretences, that they will readily con<g ref="char:EOLhyphen"/>tribute to our support, Who, for their sakes, and by asserting their interest, are brought to a Condition of desiring it; let them turn the Tables, and they will soon find, how considerable an Advantage they have, in whose Power it is to oblige; Which, we trust they will neither sacrifice to themselves, not ob<g ref="char:EOLhyphen"/>ject to us: We suppose better things of our Coun<g ref="char:EOLhyphen"/>trymen, Especially such, as having alwayes professed to accompany us, at least, with their good Opinion, and best Wishes, cannot honourably abandon us in our present Want, or grudge us their Superfluity.</p>
+            <p>The Measure we submit to his Majesties good<g ref="char:EOLhyphen"/>ness, whose Prerogative it is to conferre Royally, The Means we leave to the Parliaments Wisdome, whose property it is to determine and act maturely, Humbly beseeching them to perfect their kindnesse towards us, with this Charitable Belief, That it is our Na<g ref="char:EOLhyphen"/>ture to expect reasonably.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
